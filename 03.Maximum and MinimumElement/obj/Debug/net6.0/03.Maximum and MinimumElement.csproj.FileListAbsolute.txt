@@ -1,0 +1,15 @@
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\bin\Debug\net6.0\03.Maximum and MinimumElement.exe
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\bin\Debug\net6.0\03.Maximum and MinimumElement.deps.json
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\bin\Debug\net6.0\03.Maximum and MinimumElement.runtimeconfig.json
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\bin\Debug\net6.0\03.Maximum and MinimumElement.dll
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\bin\Debug\net6.0\03.Maximum and MinimumElement.pdb
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\03.Maximum and MinimumElement.csproj.AssemblyReference.cache
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\03.Maximum and MinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\03.Maximum and MinimumElement.AssemblyInfoInputs.cache
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\03.Maximum and MinimumElement.AssemblyInfo.cs
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\03.Maximum and MinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\03.Maximum and MinimumElement.dll
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\refint\03.Maximum and MinimumElement.dll
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\03.Maximum and MinimumElement.pdb
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\03.Maximum and MinimumElement.genruntimeconfig.cache
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\03.Maximum and MinimumElement\obj\Debug\net6.0\ref\03.Maximum and MinimumElement.dll

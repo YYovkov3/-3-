@@ -1,0 +1,15 @@
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\bin\Debug\net6.0\01.ExerciseStacksanQueues.exe
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\bin\Debug\net6.0\01.ExerciseStacksanQueues.deps.json
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\bin\Debug\net6.0\01.ExerciseStacksanQueues.runtimeconfig.json
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\bin\Debug\net6.0\01.ExerciseStacksanQueues.dll
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\bin\Debug\net6.0\01.ExerciseStacksanQueues.pdb
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\01.ExerciseStacksanQueues.csproj.AssemblyReference.cache
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\01.ExerciseStacksanQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\01.ExerciseStacksanQueues.AssemblyInfoInputs.cache
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\01.ExerciseStacksanQueues.AssemblyInfo.cs
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\01.ExerciseStacksanQueues.csproj.CoreCompileInputs.cache
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\01.ExerciseStacksanQueues.dll
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\refint\01.ExerciseStacksanQueues.dll
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\01.ExerciseStacksanQueues.pdb
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\01.ExerciseStacksanQueues.genruntimeconfig.cache
+C:\Users\Yoan\source\repos\01.ExerciseStacksanQueues\01.ExerciseStacksanQueues\obj\Debug\net6.0\ref\01.ExerciseStacksanQueues.dll
